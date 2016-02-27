@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It adds turns the directory in a the first branch of the repository but no commits are added yet. To tell git that this directory is to be a git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where you add the files to be committed. The working directory is where you create and edit your projects files. The value in that it is temporary in case you make a mistake.
