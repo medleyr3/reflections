@@ -1,0 +1,72 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+ Using diff help me see the difference by using a plus and minus signs to note where the changes were. It is a little hard to read using the commandline text interface
+ but nevertheless gets the job done at lighteing speed.
+
+ How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+ Having access to the entire history of a file can help diagnose errors in code or enable programmers to make changes to code at different points in time without changing the production code. Basically a person can develop a site and have a production site at the sametime without interfering with each other.
+
+ How do you view git history?
+
+ Navigate to the directory and type "git log"
+
+ How do you compare changes in difference versions of files using git?
+
+ git diff id1  id2
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The cons of manually commiting is basically you just have to manually remember to commit. or if you are using a computer with no backup power supply or your computer crashes, your code will be lost. The pros are that one does have control over the saving process. It is easier to find saved versions because a human made the commits rather than dozens of random saves that a program like google docs and icloud does.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git seems to be better suited to programmers and coders. Where as google docs are for normal ordinary use..where detail is not needed.. because a person may only work on the project a few times rather than the later.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log will list the complete history of the repository and git diff will allow you to compare the differences between the commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+Using git checkout and the id will allow me to go back and find bugs without touching the current code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I now can use git for not only programming makeing webpages but also for video editing, photos, pages, and a whole slew of apps.
+
+
+
+------notes -----
+
+How do you clone a repository in git?
+
+To clone a repository, run git clone followed by a space and the repository URL.
+
+example 
+
+git clone https://github.com/udacity/asteroids.git
+
+Exiting git log
+
+To stop viewing git log output, press q (which stands for quit).
+
+Getting Colored Output
+
+To get colored diff output, run git config --global color.ui auto
+
+number of lines changed
+
+it diff --shortstat b0678b161fcf74467ed3a63110557e3d6229cfa6 f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+
+
+git search messages
+
+git log --grep="Revert"
+
+git diff 547f4171a82ec6429d002c1acef357aec41d3f17 71d52709ddc4066e7a79a1d0a412e43429a0cdeb 
+
+
+ 
+
+
