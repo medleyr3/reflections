@@ -16,3 +16,11 @@ Branches are helpful when you want to expermint with your code with out touching
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help visual like where a new branches start and end.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merging combines all commits of the the branches into one branch. it represented that way to beter see the commits and history as one model 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+merging automatically lets git decide what is to be merged and sometimes might be incorrect if there are mulitple coders working on the same project.. however merging automatically might help if there are alot of files in the project.
