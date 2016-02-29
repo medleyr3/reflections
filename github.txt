@@ -24,4 +24,19 @@ git pull origin master
 
 git merge master origin/master
 
+---git changes from someone else.
+
+git pull origin master
+
+git checkout different-oil
+
+git merge master different-oil
+
+-make changes
+
+-git commit
+
+git push different-oil
+
+
 

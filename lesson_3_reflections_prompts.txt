@@ -17,3 +17,5 @@ being able to work without internet connection.
 --How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Because I am not used to this I think this would be harder.. but I would be easier to monitor if working in a group.. who would you use this with a database..
+
+--
