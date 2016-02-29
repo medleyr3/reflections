@@ -1,0 +1,27 @@
+How to create a repository on git hub create repository on github.com
+
+--in your terminal type"
+git remote add origin https://github.com/medleyr3/reflections.git
+
+git remote -v
+
+
+---Git updates from repository
+git pull origin master
+
+
+How to create a repository on git hub create repository on github.com
+
+--in your terminal type"
+git remote add origin https://github.com/medleyr3/reflections.git
+
+git remote -v
+
+
+---Git updates from repository
+git pull origin master
+
+
+git merge master origin/master
+
+
