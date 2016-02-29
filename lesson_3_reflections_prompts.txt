@@ -18,4 +18,6 @@ being able to work without internet connection.
 
 Because I am not used to this I think this would be harder.. but I would be easier to monitor if working in a group.. who would you use this with a database..
 
---
+--When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+see last answer.. it allows me to collaborate and get feed back with other coders.
