@@ -10,6 +10,10 @@ you might have different people working on the files from the same or remote loc
 
 -forks are clones of a repository on github only.. clones are repositiorys downloaded to your localcomputer or copied on the local computer, branches are checked out repositories that muliple users workon that can be merged back into the same local repository.
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+--What is the benefit of having a copy of the last known state of the remote stored locally?
 
 being able to work without internet connection.
+
+--How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Because I am not used to this I think this would be harder.. but I would be easier to monitor if working in a group.. who would you use this with a database..
